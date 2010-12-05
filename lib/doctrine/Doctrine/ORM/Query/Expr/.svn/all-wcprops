@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/7124/trunk/lib/Doctrine/ORM/Query/Expr
+END
+Math.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/Math.php
+END
+Andx.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/Andx.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7124/trunk/lib/Doctrine/ORM/Query/Expr/Base.php
+END
+Comparison.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/Comparison.php
+END
+Func.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7124/trunk/lib/Doctrine/ORM/Query/Expr/Func.php
+END
+Literal.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7124/trunk/lib/Doctrine/ORM/Query/Expr/Literal.php
+END
+Join.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/Join.php
+END
+Select.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/Select.php
+END
+From.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7002/trunk/lib/Doctrine/ORM/Query/Expr/From.php
+END
+OrderBy.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/OrderBy.php
+END
+GroupBy.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/GroupBy.php
+END
+Orx.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6310/trunk/lib/Doctrine/ORM/Query/Expr/Orx.php
+END

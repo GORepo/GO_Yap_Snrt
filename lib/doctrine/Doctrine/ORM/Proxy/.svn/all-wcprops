@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/7602/trunk/lib/Doctrine/ORM/Proxy
+END
+ProxyFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7602/trunk/lib/Doctrine/ORM/Proxy/ProxyFactory.php
+END
+ProxyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7525/trunk/lib/Doctrine/ORM/Proxy/ProxyException.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/7004/trunk/lib/Doctrine/ORM/Proxy/Proxy.php
+END

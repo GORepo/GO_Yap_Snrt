@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 77
+Yaml http://svn.symfony-project.org/branches/2.0/src/Symfony/Components/Yaml
+
+END

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/7571/trunk/lib/Doctrine/ORM/Query/AST
+END
+Subselect.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/Subselect.php
+END
+DeleteClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/DeleteClause.php
+END
+SelectExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/SelectExpression.php
+END
+InputParameter.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6790/trunk/lib/Doctrine/ORM/Query/AST/InputParameter.php
+END
+UpdateItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/UpdateItem.php
+END
+IndexBy.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/IndexBy.php
+END
+OrderByClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/OrderByClause.php
+END
+CollectionMemberExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/CollectionMemberExpression.php
+END
+PartialObjectExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/7190/trunk/lib/Doctrine/ORM/Query/AST/PartialObjectExpression.php
+END
+LikeExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/LikeExpression.php
+END
+IdentificationVariableDeclaration.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/IdentificationVariableDeclaration.php
+END
+ConditionalPrimary.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ConditionalPrimary.php
+END
+HavingClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/HavingClause.php
+END
+BetweenExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/BetweenExpression.php
+END
+QuantifiedExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6226/trunk/lib/Doctrine/ORM/Query/AST/QuantifiedExpression.php
+END
+JoinVariableDeclaration.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/JoinVariableDeclaration.php
+END
+SelectClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/SelectClause.php
+END
+ArithmeticTerm.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ArithmeticTerm.php
+END
+SimpleArithmeticExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/SimpleArithmeticExpression.php
+END
+GroupByClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/GroupByClause.php
+END
+OrderByItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/OrderByItem.php
+END
+ArithmeticFactor.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ArithmeticFactor.php
+END
+JoinAssociationPathExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/JoinAssociationPathExpression.php
+END
+ComparisonExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ComparisonExpression.php
+END
+ConditionalTerm.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ConditionalTerm.php
+END
+Literal.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6500/trunk/lib/Doctrine/ORM/Query/AST/Literal.php
+END
+Join.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/7190/trunk/lib/Doctrine/ORM/Query/AST/Join.php
+END
+ExistsExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ExistsExpression.php
+END
+FromClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/FromClause.php
+END
+ConditionalFactor.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ConditionalFactor.php
+END
+SelectStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/SelectStatement.php
+END
+ASTException.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7190/trunk/lib/Doctrine/ORM/Query/AST/ASTException.php
+END
+AggregateExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6222/trunk/lib/Doctrine/ORM/Query/AST/AggregateExpression.php
+END
+UpdateStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/7247/trunk/lib/Doctrine/ORM/Query/AST/UpdateStatement.php
+END
+WhereClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/WhereClause.php
+END
+RangeVariableDeclaration.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/6225/trunk/lib/Doctrine/ORM/Query/AST/RangeVariableDeclaration.php
+END
+ArithmeticExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6222/trunk/lib/Doctrine/ORM/Query/AST/ArithmeticExpression.php
+END
+SimpleSelectExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/SimpleSelectExpression.php
+END
+SubselectFromClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/SubselectFromClause.php
+END
+PathExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7571/trunk/lib/Doctrine/ORM/Query/AST/PathExpression.php
+END
+UpdateClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/UpdateClause.php
+END
+ConditionalExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/ConditionalExpression.php
+END
+NullComparisonExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/NullComparisonExpression.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/7190/trunk/lib/Doctrine/ORM/Query/AST/Node.php
+END
+EmptyCollectionComparisonExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/EmptyCollectionComparisonExpression.php
+END
+InExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/InExpression.php
+END
+SimpleSelectClause.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/SimpleSelectClause.php
+END
+DeleteStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6213/trunk/lib/Doctrine/ORM/Query/AST/DeleteStatement.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/7622/trunk/lib/Doctrine/ORM/Mapping
+END
+MappingException.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7577/trunk/lib/Doctrine/ORM/Mapping/MappingException.php
+END
+ClassMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/7599/trunk/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php
+END
+ClassMetadataInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/7599/trunk/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php
+END
+OneToOneMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7577/trunk/lib/Doctrine/ORM/Mapping/OneToOneMapping.php
+END
+OneToManyMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7577/trunk/lib/Doctrine/ORM/Mapping/OneToManyMapping.php
+END
+ClassMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7586/trunk/lib/Doctrine/ORM/Mapping/ClassMetadata.php
+END
+AssociationMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7585/trunk/lib/Doctrine/ORM/Mapping/AssociationMapping.php
+END
+ManyToManyMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/7577/trunk/lib/Doctrine/ORM/Mapping/ManyToManyMapping.php
+END

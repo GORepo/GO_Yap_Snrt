@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/7553/trunk/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool
+END
+UpdateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/7551/trunk/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/UpdateCommand.php
+END
+AbstractCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/7553/trunk/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/AbstractCommand.php
+END
+CreateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/7551/trunk/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/CreateCommand.php
+END
+DropCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/7551/trunk/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/DropCommand.php
+END

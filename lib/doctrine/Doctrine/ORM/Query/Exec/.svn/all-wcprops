@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/7588/trunk/lib/Doctrine/ORM/Query/Exec
+END
+SingleTableDeleteUpdateExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/7480/trunk/lib/Doctrine/ORM/Query/Exec/SingleTableDeleteUpdateExecutor.php
+END
+SingleSelectExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/7520/trunk/lib/Doctrine/ORM/Query/Exec/SingleSelectExecutor.php
+END
+AbstractSqlExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/7480/trunk/lib/Doctrine/ORM/Query/Exec/AbstractSqlExecutor.php
+END
+MultiTableDeleteExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/7588/trunk/lib/Doctrine/ORM/Query/Exec/MultiTableDeleteExecutor.php
+END
+MultiTableUpdateExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/7588/trunk/lib/Doctrine/ORM/Query/Exec/MultiTableUpdateExecutor.php
+END
