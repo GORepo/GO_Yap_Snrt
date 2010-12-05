@@ -45,6 +45,7 @@ if(!defined('DIR_SEP')) {
  * application has not already defined it.
  */
 
+
 if (!defined('SMARTY_DIR')) {
     define('SMARTY_DIR', dirname(__FILE__) . DIRECTORY_SEPARATOR);
 }
