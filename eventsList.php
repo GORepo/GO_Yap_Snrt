@@ -7,11 +7,11 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/backend/DAO/ActivityDAO.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/backend/DAO/ImageDAO.php';
 $activite = new ActivityDAO(); 
 $image = new ImageDAO();
-$activities = $activite->loadActivity(5,0);
+$activities = $activite->loadActivity(0,0);
 
 $smarty->display("header.tpl");
 $smarty->assign("activities",$activities );
-$smarty->display("index.tpl");
+$smarty->display("eventsList/index.tpl");
 $smarty->display("footer.tpl");
 
 ?>
